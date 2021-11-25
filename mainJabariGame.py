@@ -50,6 +50,8 @@ if answer1 == 'continue':
 if answer1 == 'give up': 
     Loserxd()
 
+    
+
 victory_screen()
 
 Loserxd()
