@@ -3,7 +3,7 @@ import termcolor
 import time
 from pygame import mixer
 
-def introduction_exposition_dump()
+def introduction_exposition_dump():
     print ("Welcome to Jabari Jumps: The video game")
     time.sleep(2)
     print ("once upon a time there was a boy named Jabari")
@@ -38,3 +38,7 @@ def Loserxd():
     playsound.playsound('Regular Show Intro sound effect.mp3')
     print (printString2)
     answer = input()
+
+Loserxd()
+
+victory_screen()
